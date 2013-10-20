@@ -1,0 +1,10 @@
+http://en.itx.web.id/php-en/export-from-database-to-excel-file-in-the-codeigniter/
+ปัญหา Bug
+1. เบิกอุปกรณ์เกินจำนวน quantity
+2.แก้ id เป็น product_code
+3.แก้ Controller , Model ให้สื่อความหมาย
+4.ความยาว Attribute Database
+5.Del ใน Controller ควรจะใช้ Model
+6.Login ยังไม่สมบูรณ์
+7.ตัวใหญ่ตัวแรก , กรอกทุกอันแล้วบันทึก , ลบช่องว่างซ้ายขวา
+8 detial all table
